@@ -1,0 +1,2 @@
+Numpy
+# No external packages required for Day 01.
