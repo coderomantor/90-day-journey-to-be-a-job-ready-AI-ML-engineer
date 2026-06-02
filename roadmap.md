@@ -1,9 +1,3 @@
----
-noteId: "037ed9105e5211f19b67039edb4b38c8"
-tags: []
-
----
-
 # 90-Day AI/ML Roadmap
 
 This roadmap keeps the challenge focused, beginner-friendly, and portfolio-ready.

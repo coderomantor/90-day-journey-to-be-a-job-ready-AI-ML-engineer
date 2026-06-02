@@ -1,9 +1,3 @@
----
-noteId: "1297bf205e5211f19b67039edb4b38c8"
-tags: []
-
----
-
 # Day 01: NumPy Fundamentals
 
 ## Goal
@@ -50,6 +44,10 @@ From the `Day-01/project/` folder:
 pip install -r requirements.txt
 python student_marks_analyzer.py
 ```
+
+## Output
+
+The project prints a student performance summary and class-level averages in the terminal. A screenshot of the output is saved in the `screenshots/` folder.
 
 ## What I Learned
 

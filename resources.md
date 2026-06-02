@@ -1,9 +1,3 @@
----
-noteId: "0b368e505e5211f19b67039edb4b38c8"
-tags: []
-
----
-
 # Learning Resources
 
 General resources for the full 90-day AI/ML Engineer roadmap.

@@ -70,7 +70,7 @@ Each daily folder includes:
 
 ### Day 01: Student Marks Analyzer
 
-The first project uses NumPy to analyze marks for multiple students. It calculates:
+The first project uses NumPy to analyze marks for multiple students and produce a clean terminal summary. It calculates:
 
 - Total marks
 - Average marks
@@ -78,6 +78,7 @@ The first project uses NumPy to analyze marks for multiple students. It calculat
 - Class-level summary statistics
 
 Project folder: [Day-01/project](Day-01/project)
+Screenshot: [Day-01/screenshots](Day-01/screenshots)
 
 ## Why I Am Sharing This
 

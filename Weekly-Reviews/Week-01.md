@@ -1,9 +1,3 @@
----
-noteId: "3ac84a505e5211f19b67039edb4b38c8"
-tags: []
-
----
-
 # Week 01 Review
 
 ## Focus

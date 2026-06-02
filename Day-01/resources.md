@@ -1,9 +1,3 @@
----
-noteId: "2396ca505e5211f19b67039edb4b38c8"
-tags: []
-
----
-
 # Day 01 Resources
 
 Resources used for NumPy fundamentals and the Student Marks Analyzer project.

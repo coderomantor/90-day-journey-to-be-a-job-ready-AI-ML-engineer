@@ -1,9 +1,3 @@
----
-noteId: "420ddcd05e5211f19b67039edb4b38c8"
-tags: []
-
----
-
 # 90 Days AI/ML Engineer Roadmap
 
 ## Goal
