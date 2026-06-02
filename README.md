@@ -1,89 +1,94 @@
-# 90 Days AI & Machine Learning Engineer Roadmap
+---
+noteId: "f959f4605e5111f19b67039edb4b38c8"
+tags: []
 
-I am documenting my journey to become a job-ready AI & Machine Learning Engineer.
+---
 
-This repository includes:
-- Daily learning notes
-- Python, ML, Deep Learning, and AI projects
-- Resources I used
-- Reflections and interview questions
+# 90 Days AI/ML Engineer Roadmap
 
-## Goal
+A public 90-day learning challenge to become a more job-ready AI and Machine Learning Engineer.
 
-To strengthen my AI/ML foundations, build real-world projects, and prepare for junior AI/ML engineering roles.
-
-## Roadmap
-
-- Phase 1: Python, NumPy, Pandas, Git
-- Phase 2: Machine Learning Core
-- Phase 3: Deep Learning
-- Phase 4: LLMs, RAG, LangChain
-- Phase 5: Deployment, Portfolio, Job Prep
-
-## Progress
-
-| Day | Topic | Status |
-|---|---|---|
-| Day 01 | NumPy Fundamentals | ✅ Completed |
-| Day 02 | NumPy Deep Dive + Pandas | ⏳ Upcoming |
-
-## Connect
-
-I am sharing this journey publicly to help other learners follow along.
-# 90-day-journey-to-be-a-job-ready-AI-ML-engineer
-
-This repository documents my 90-day journey to become a job-ready AI/ML Engineer.
-
-The goal is to learn in public through daily notes, beginner-friendly projects, useful resources, and weekly reviews. Each day is focused on building practical skills step by step without over-engineering.
+I am documenting my daily learning, beginner-friendly projects, useful resources, and weekly reflections as I build stronger AI/ML foundations and a professional GitHub portfolio.
 
 ## About Me
 
+- Final-year Computer Science student
 - Intermediate Python developer
 - Basic Machine Learning knowledge
 - Beginner AI Engineer
-- Final-year Computer Science student
+- Recently started a remote AI/ML Developer role
 
-## Repository Structure
+## Goal
 
-```text
-90-day-journey-to-be-a-job-ready-AI-ML-engineer/
-├── README.md
-├── AGENTS.md
-├── roadmap.md
-├── resources.md
-├── Weekly-Reviews/
-│   └── Week-01.md
-└── Day-01/
-    ├── README.md
-    ├── resources.md
-    ├── project/
-    │   ├── student_marks_analyzer.py
-    │   └── requirements.txt
-    └── screenshots/
-```
+The goal of this repository is to learn in public, build practical projects, and show consistent progress toward AI/ML engineering skills that are useful in real work.
+
+## Roadmap Overview
+
+| Phase | Focus Area | Outcome |
+| --- | --- | --- |
+| Phase 1 | Python, NumPy, Pandas, Git | Strong coding and data handling foundation |
+| Phase 2 | Machine Learning Fundamentals | Train, evaluate, and explain basic ML models |
+| Phase 3 | Deep Learning Basics | Understand neural networks and common workflows |
+| Phase 4 | AI Engineering and LLMs | Build practical AI apps with APIs, RAG, and tools |
+| Phase 5 | Deployment and Portfolio | Package projects, write READMEs, and prepare for interviews |
+
+For the full plan, see [roadmap.md](roadmap.md).
 
 ## Progress
 
 | Day | Topic | Project | Status |
 | --- | --- | --- | --- |
-| Day 01 | Python basics and data analysis thinking | Student Marks Analyzer | In progress |
+| Day 01 | NumPy Fundamentals | Student Marks Analyzer | Completed |
+| Day 02 | NumPy Practice + Pandas Introduction | Coming soon | Upcoming |
+| Day 03 | Pandas DataFrames | Coming soon | Upcoming |
+| Day 04 | Data Cleaning Basics | Coming soon | Upcoming |
+| Day 05 | Mini Data Analysis Project | Coming soon | Upcoming |
 
-## Learning Focus
+## Repository Structure
 
-- Python for AI/ML
-- Data analysis basics
-- Machine Learning fundamentals
-- AI engineering concepts
-- Clean project documentation
-- Portfolio-ready GitHub habits
+```text
+90-Days-AI-ML-Roadmap/
+├── README.md
+├── AGENTS.md
+├── roadmap.md
+├── resources.md
+├── Day-01/
+│   ├── README.md
+│   ├── resources.md
+│   ├── project/
+│   │   ├── student_marks_analyzer.py
+│   │   └── requirements.txt
+│   └── screenshots/
+└── Weekly-Reviews/
+    └── Week-01.md
+```
 
-## How I Use This Repository
+## Daily Folder Format
 
-Each daily folder contains:
+Each daily folder includes:
 
-- `README.md` for daily learning notes
-- `resources.md` for helpful learning links
-- `project/` for code
-- `screenshots/` for project output or progress images
+- `README.md` for learning notes and project explanation
+- `resources.md` for links used that day
+- `project/` for beginner-friendly code
+- `screenshots/` for output images or progress screenshots
 
-Weekly reviews are used to reflect on what I learned, what was difficult, and what I should improve next.
+## Current Project
+
+### Day 01: Student Marks Analyzer
+
+The first project uses NumPy to analyze marks for multiple students. It calculates:
+
+- Total marks
+- Average marks
+- Highest and lowest marks
+- Class-level summary statistics
+
+Project folder: [Day-01/project](Day-01/project)
+
+## Why I Am Sharing This
+
+Learning in public helps me stay consistent, improve my communication, and build a portfolio that clearly shows my growth. I also hope this repository helps other students who want a simple path into AI/ML engineering.
+
+## Connect
+
+I will continue updating this repository daily as part of my 90-day AI/ML roadmap challenge.

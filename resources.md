@@ -1,35 +1,40 @@
 ---
-noteId: "20faab605e4111f192bf8bc679aedb53"
+noteId: "0b368e505e5211f19b67039edb4b38c8"
 tags: []
 
 ---
 
-# Resources
+# Learning Resources
 
-Repository: `90-day-journey-to-be-a-job-ready-AI-ML-engineer`
-
-This file collects general resources for the full 90-day AI/ML Engineer journey.
+General resources for the full 90-day AI/ML Engineer roadmap.
 
 ## Python
 
-- Python official documentation
-- Real Python tutorials
-- W3Schools Python reference
+- [Python Official Tutorial](https://docs.python.org/3/tutorial/)
+- [Real Python](https://realpython.com/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+## NumPy and Data Analysis
+
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Kaggle Learn: Pandas](https://www.kaggle.com/learn/pandas)
 
 ## Machine Learning
 
-- scikit-learn documentation
-- Google Machine Learning Crash Course
-- Kaggle Learn
+- [scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Kaggle Learn: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ## AI Engineering
 
-- OpenAI documentation
-- Hugging Face documentation
-- LangChain documentation
+- [OpenAI Developer Documentation](https://platform.openai.com/docs)
+- [Hugging Face Documentation](https://huggingface.co/docs)
+- [LangChain Documentation](https://python.langchain.com/docs/)
 
-## Portfolio And GitHub
+## GitHub and Portfolio
 
-- GitHub Docs
-- Markdown Guide
-- README examples from well-maintained beginner projects
+- [GitHub Docs](https://docs.github.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Make a README](https://www.makeareadme.com/)

@@ -1,27 +1,27 @@
 ---
-noteId: "216861505e4111f192bf8bc679aedb53"
+noteId: "2396ca505e5211f19b67039edb4b38c8"
 tags: []
 
 ---
 
 # Day 01 Resources
 
-Repository: `90-day-journey-to-be-a-job-ready-AI-ML-engineer`
+Resources used for NumPy fundamentals and the Student Marks Analyzer project.
 
-## Python Basics
+## NumPy
 
-- Python variables
-- Lists
-- Dictionaries
-- Loops
-- Functions
+- [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
+- [NumPy Array Creation](https://numpy.org/doc/stable/user/basics.creation.html)
+- [NumPy Statistical Functions](https://numpy.org/doc/stable/reference/routines.statistics.html)
 
-## Suggested Resources
+## Python Review
 
-- Python official tutorial
-- Real Python beginner tutorials
-- W3Schools Python basics
+- [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
+- [Python Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 
-## Notes
+## Practice Ideas
 
-Use these resources to review the concepts used in the Student Marks Analyzer project.
+- Add more students and subjects.
+- Calculate grades based on average marks.
+- Save the output as a text file.
+- Add simple user input later after the NumPy logic is clear.

@@ -1,35 +1,82 @@
-# Roadmap
+---
+noteId: "037ed9105e5211f19b67039edb4b38c8"
+tags: []
 
-Repository: `90-day-journey-to-be-a-job-ready-AI-ML-engineer`
+---
 
-This roadmap tracks my 90-day learning journey toward becoming a job-ready AI/ML Engineer.
+# 90-Day AI/ML Roadmap
+
+This roadmap keeps the challenge focused, beginner-friendly, and portfolio-ready.
 
 ## Phase 1: Foundations
 
-- Strengthen Python fundamentals
-- Practice problem solving with small scripts
-- Learn basic data analysis workflows
-- Build confidence with GitHub documentation
+**Goal:** Strengthen Python, numerical computing, data handling, and GitHub documentation habits.
 
-## Phase 2: Machine Learning Basics
+- Python refresher for AI/ML workflows
+- NumPy arrays, vectorization, and statistics
+- Pandas data loading, cleaning, and analysis
+- Git and GitHub basics
+- Small scripts and mini projects
 
-- Understand supervised learning
-- Practice with datasets
-- Learn model training and evaluation
-- Build small ML projects
+## Phase 2: Machine Learning Core
 
-## Phase 3: AI Engineering Skills
+**Goal:** Understand how classic machine learning models work and how to evaluate them.
 
-- Learn practical AI tools
-- Work with APIs and simple AI applications
-- Improve project structure and documentation
-- Prepare portfolio-ready projects
+- Supervised learning
+- Regression and classification
+- Train/test split
+- Model evaluation metrics
+- scikit-learn workflows
+- Small ML projects with real datasets
 
-## Daily Structure
+## Phase 3: Deep Learning Basics
+
+**Goal:** Build a practical understanding of neural networks and modern AI foundations.
+
+- Neural network intuition
+- Tensors and training loops
+- Computer vision basics
+- Natural language processing basics
+- Model experimentation and documentation
+
+## Phase 4: AI Engineering and LLMs
+
+**Goal:** Learn how to build useful AI applications, not only notebooks.
+
+- API-based AI applications
+- Prompting fundamentals
+- Embeddings and semantic search
+- RAG basics
+- LangChain or similar AI engineering tools
+- Simple AI app projects
+
+## Phase 5: Deployment, Portfolio, and Job Prep
+
+**Goal:** Prepare projects for public viewing, interviews, and real developer workflows.
+
+- Clean README files
+- Project structure and requirements files
+- Basic deployment concepts
+- Interview review notes
+- Portfolio polishing
+- LinkedIn and GitHub documentation
+
+## Daily Workflow
 
 Each day should include:
 
 - A short learning summary
 - A beginner-friendly project or exercise
 - Useful resources
+- A reflection on what was learned
 - Screenshots or output when helpful
+
+## Progress Tracker
+
+| Day | Focus | Deliverable | Status |
+| --- | --- | --- | --- |
+| Day 01 | NumPy fundamentals | Student Marks Analyzer | Completed |
+| Day 02 | NumPy practice and Pandas intro | Small data table exercise | Upcoming |
+| Day 03 | Pandas DataFrames | DataFrame analysis notes | Upcoming |
+| Day 04 | Data cleaning | Cleaning practice project | Upcoming |
+| Day 05 | Mini data analysis | First mini analysis report | Upcoming |

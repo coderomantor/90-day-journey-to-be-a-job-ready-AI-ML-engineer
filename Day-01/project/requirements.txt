@@ -1,2 +1,1 @@
-Numpy
-# No external packages required for Day 01.
+numpy>=1.26.0

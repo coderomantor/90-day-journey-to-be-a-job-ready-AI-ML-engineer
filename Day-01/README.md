@@ -1,72 +1,62 @@
-# Day 01 - Python Refresher & NumPy Fundamentals
+---
+noteId: "1297bf205e5211f19b67039edb4b38c8"
+tags: []
 
-## Topics Covered
-- Python refresher
-- NumPy arrays
-- Vectorization
-- Indexing and slicing
-- Basic statistical operations
+---
 
-## What I Learned
-- NumPy arrays are faster than Python lists because of contiguous memory and optimized C operations.
-- Vectorization allows operations on entire arrays without explicit loops.
-- AI and ML depend heavily on numerical data structures.
-
-## Mini Project
-Student Marks Analyzer using NumPy.
-
-## Interview Questions
-1. Why is NumPy faster than Python lists?
-2. What is vectorization?
-3. Why are arrays important in AI?
-
-## Status
-Completed
-# Day 01: Student Marks Analyzer
-
-Repository: `90-day-journey-to-be-a-job-ready-AI-ML-engineer`
+# Day 01: NumPy Fundamentals
 
 ## Goal
 
-The goal of Day 01 is to practice Python basics by building a small project that analyzes student marks.
+Practice NumPy fundamentals by building a small Student Marks Analyzer.
 
-This project is beginner-friendly, but it still follows a professional habit: explain the problem, write clean code, and document how the project works.
+This is a beginner-friendly project, but it follows professional habits: clear problem definition, simple code, useful comments, and readable output.
 
-## What This Project Does
+## Topics Covered
 
-The Student Marks Analyzer should be able to:
+- NumPy arrays
+- Vectorized calculations
+- Mean, max, min, and sum
+- Working with rows and columns
+- Writing clean beginner-friendly Python scripts
 
-- Store marks for multiple students
-- Calculate total marks
-- Calculate average marks
-- Find the highest and lowest marks
-- Display a simple result summary
+## Mini Project: Student Marks Analyzer
 
-## Concepts Practiced
+The project stores marks for multiple students across multiple subjects and calculates:
 
-- Python variables
-- Lists and dictionaries
-- Loops
-- Functions
-- Basic calculations
-- Clean output formatting
+- Total marks for each student
+- Average marks for each student
+- Highest and lowest marks for each student
+- Class average per subject
+- Overall class average
 
-## Project Files
+## Project Structure
 
 ```text
-project/
-├── student_marks_analyzer.py
-└── requirements.txt
+Day-01/
+├── README.md
+├── resources.md
+├── project/
+│   ├── student_marks_analyzer.py
+│   └── requirements.txt
+└── screenshots/
 ```
 
 ## How To Run
 
-From the `Day-01/project/` folder, run:
+From the `Day-01/project/` folder:
 
 ```bash
+pip install -r requirements.txt
 python student_marks_analyzer.py
 ```
 
-## Learning Reflection
+## What I Learned
 
-Today I practiced turning a simple real-world problem into a small Python program. The main focus was not advanced machine learning yet, but building the foundation needed for future AI/ML projects.
+- NumPy arrays make numerical calculations easier and cleaner than manual loops.
+- Vectorization allows calculations across full rows or columns at once.
+- Many AI/ML workflows start with simple data analysis before model training.
+
+## Reflection
+
+Day 01 focused on building confidence with numerical data. This project is small, but it connects directly to future AI/ML work because model training often depends on arrays, statistics, and clean data handling.
