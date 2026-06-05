@@ -1,76 +1,484 @@
-# 90-Day AI/ML Roadmap
+# 90-Days AI/ML Roadmap - Daily Execution Plan
 
-This roadmap keeps the challenge focused, beginner-friendly, and portfolio-ready.
+## Phase 1: Foundations (Days 1-14)
 
-## Phase 1: Foundations
+### Day 01 ✅
 
-**Goal:** Strengthen Python, numerical computing, data handling, and GitHub documentation habits.
+Topics:
 
-- Python refresher for AI/ML workflows
-- NumPy arrays, vectorization, and statistics
-- Pandas data loading, cleaning, and analysis
-- Git and GitHub basics
-- Small scripts and mini projects
+* Python refresher
+* NumPy basics
+* Arrays
+* Vectorization
 
-## Phase 2: Machine Learning Core
+Project:
 
-**Goal:** Understand how classic machine learning models work and how to evaluate them.
+* Student Marks Analyzer
 
-- Supervised learning
-- Regression and classification
-- Train/test split
-- Model evaluation metrics
-- scikit-learn workflows
-- Small ML projects with real datasets
+Deliverable:
 
-## Phase 3: Deep Learning Basics
+* NumPy practice
+* GitHub setup
 
-**Goal:** Build a practical understanding of neural networks and modern AI foundations.
+---
 
-- Neural network intuition
-- Tensors and training loops
-- Computer vision basics
-- Natural language processing basics
-- Model experimentation and documentation
+### Day 02 ✅
 
-## Phase 4: AI Engineering and LLMs
+Topics:
 
-**Goal:** Learn how to build useful AI applications, not only notebooks.
+* 2D NumPy Arrays
+* Pandas Introduction
+* DataFrames
+* Basic Data Exploration
 
-- API-based AI applications
-- Prompting fundamentals
-- Embeddings and semantic search
-- RAG basics
-- LangChain or similar AI engineering tools
-- Simple AI app projects
+Project:
 
-## Phase 5: Deployment, Portfolio, and Job Prep
+* Student Performance Analyzer
 
-**Goal:** Prepare projects for public viewing, interviews, and real developer workflows.
+Deliverable:
 
-- Clean README files
-- Project structure and requirements files
-- Basic deployment concepts
-- Interview review notes
-- Portfolio polishing
-- LinkedIn and GitHub documentation
+* DataFrame creation
+* Statistics analysis
 
-## Daily Workflow
+---
 
-Each day should include:
+### Day 03 ✅
 
-- A short learning summary
-- A beginner-friendly project or exercise
-- Useful resources
-- A reflection on what was learned
-- Screenshots or output when helpful
+Topics:
 
-## Progress Tracker
+* Missing Values
+* Data Cleaning
+* Data Types
+* Filtering Data
+* Duplicate Detection
+* Value Counts
+* GroupBy
+* Sorting
 
-| Day | Focus | Deliverable | Status |
-| --- | --- | --- | --- |
-| Day 01 | NumPy fundamentals | Student Marks Analyzer | Completed |
-| Day 02 | NumPy practice and Pandas intro | Student Performance DataFrame | Completed |
-| Day 03 | Pandas DataFrames and data cleaning | DataFrame analysis notes | Ready to start |
-| Day 04 | Data cleaning | Cleaning practice project | Upcoming |
-| Day 05 | Mini data analysis | First mini analysis report | Upcoming |
+Project:
+
+* Employee Data Analyzer
+
+Deliverable:
+
+* Detect missing values
+* Fill missing values
+* Filter employees by salary
+* Analyze departments using value counts and grouped summaries
+
+---
+
+### Day 04
+
+Topics:
+
+* Data Visualization
+* Matplotlib Basics
+
+Project:
+
+* Employee Salary Dashboard
+
+Deliverable:
+
+* Bar charts
+* Line charts
+* Histograms
+
+---
+
+### Day 05
+
+Topics:
+
+* Seaborn Basics
+* Correlation Visualization
+
+Project:
+
+* Student Insights Dashboard
+
+Deliverable:
+
+* Heatmaps
+* Distribution plots
+
+---
+
+### Day 06
+
+Topics:
+
+* Exploratory Data Analysis (EDA)
+
+Project:
+
+* Analyze a Kaggle Dataset
+
+Deliverable:
+
+* EDA Report
+
+---
+
+### Day 07
+
+Topics:
+
+* Revision
+* Interview Questions
+
+Project:
+
+* Weekly Review
+
+Deliverable:
+
+* Week 1 Summary
+
+---
+
+### Day 08
+
+Topics:
+
+* Feature Engineering Basics
+* Encoding
+
+Project:
+
+* Dataset Preparation
+
+---
+
+### Day 09
+
+Topics:
+
+* Feature Scaling
+* Normalization
+* Standardization
+
+Project:
+
+* Data Preprocessing Pipeline
+
+---
+
+### Day 10
+
+Topics:
+
+* Train/Test Split
+
+Project:
+
+* Dataset Splitting Tool
+
+---
+
+### Day 11
+
+Topics:
+
+* Introduction to Machine Learning
+
+Project:
+
+* ML Workflow Notes
+
+---
+
+### Day 12
+
+Topics:
+
+* Linear Regression Theory
+
+Project:
+
+* House Price Prediction (Part 1)
+
+---
+
+### Day 13
+
+Topics:
+
+* Linear Regression Implementation
+
+Project:
+
+* House Price Prediction (Part 2)
+
+---
+
+### Day 14
+
+Topics:
+
+* Phase Review
+
+Deliverable:
+
+* Foundation Phase Reflection
+
+---
+
+# Phase 2: Machine Learning Core (Days 15-35)
+
+### Days 15-17
+
+Topics:
+
+* Logistic Regression
+* Classification
+
+Project:
+
+* Student Pass/Fail Predictor
+
+---
+
+### Days 18-20
+
+Topics:
+
+* Evaluation Metrics
+
+Project:
+
+* Model Performance Dashboard
+
+---
+
+### Days 21-24
+
+Topics:
+
+* Decision Trees
+* Random Forest
+
+Project:
+
+* Loan Approval Prediction
+
+---
+
+### Days 25-28
+
+Topics:
+
+* Feature Engineering
+
+Project:
+
+* Customer Churn Dataset
+
+---
+
+### Days 29-32
+
+Topics:
+
+* XGBoost
+
+Project:
+
+* Churn Prediction Optimized
+
+---
+
+### Days 33-35
+
+Topics:
+
+* Mini End-to-End ML Project
+
+Project:
+
+* Complete ML Workflow
+
+---
+
+# Phase 3: Deep Learning (Days 36-55)
+
+### Days 36-40
+
+Topics:
+
+* Neural Networks
+* Activation Functions
+
+Project:
+
+* First Neural Network
+
+---
+
+### Days 41-45
+
+Topics:
+
+* PyTorch Fundamentals
+
+Project:
+
+* MNIST Digit Classifier
+
+---
+
+### Days 46-50
+
+Topics:
+
+* CNN
+
+Project:
+
+* Image Classifier
+
+---
+
+### Days 51-55
+
+Topics:
+
+* Transfer Learning
+
+Project:
+
+* Custom Image Classification
+
+---
+
+# Phase 4: AI Engineering & LLMs (Days 56-75)
+
+### Days 56-60
+
+Topics:
+
+* OpenAI APIs
+* Prompt Engineering
+
+Project:
+
+* AI Content Assistant
+
+---
+
+### Days 61-65
+
+Topics:
+
+* Embeddings
+* Vector Databases
+
+Project:
+
+* Semantic Search Tool
+
+---
+
+### Days 66-70
+
+Topics:
+
+* RAG Systems
+
+Project:
+
+* PDF Question Answering System
+
+---
+
+### Days 71-75
+
+Topics:
+
+* LangChain
+
+Project:
+
+* AI Agent Assistant
+
+---
+
+# Phase 5: Deployment & Job Readiness (Days 76-90)
+
+### Days 76-80
+
+Topics:
+
+* FastAPI
+
+Project:
+
+* Prediction API
+
+---
+
+### Days 81-83
+
+Topics:
+
+* Docker
+
+Project:
+
+* Containerized AI App
+
+---
+
+### Days 84-86
+
+Topics:
+
+* Portfolio Building
+
+Project:
+
+* Personal AI Portfolio
+
+---
+
+### Days 87-89
+
+Topics:
+
+* Resume
+* Interview Preparation
+
+Project:
+
+* Mock Interviews
+
+---
+
+### Day 90
+
+Topics:
+
+* Final Reflection
+
+Project:
+
+* Showcase Project
+
+Deliverable:
+
+* LinkedIn Final Post
+* GitHub Final Review
+* Career Readiness Assessment
+
+---
+
+# Rules For Codex
+
+1. Always read roadmap.md and day-plans.md first.
+2. day-plans.md takes priority over roadmap.md.
+3. Focus on the current day only.
+4. Teach concepts before coding.
+5. Encourage project-based learning.
+6. Help create portfolio-quality deliverables.
+7. Do not skip prerequisites from earlier days.

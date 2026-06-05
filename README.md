@@ -20,11 +20,11 @@ The goal of this repository is to learn in public, build practical AI/ML project
 
 | Phase | Focus Area | Outcome |
 | --- | --- | --- |
-| Phase 1 | Python, NumPy, Pandas, Git | Strong coding and data handling foundation |
-| Phase 2 | Machine Learning Fundamentals | Train, evaluate, and explain basic ML models |
-| Phase 3 | Deep Learning Basics | Understand neural networks and common workflows |
-| Phase 4 | AI Engineering and LLMs | Build practical AI apps with APIs, RAG, and tools |
-| Phase 5 | Deployment and Portfolio | Package projects, write READMEs, and prepare for interviews |
+| Phase 1 | Foundations: Python, NumPy, Pandas, data cleaning, visualization, EDA, and first ML concepts | Strong coding and data handling foundation |
+| Phase 2 | Machine Learning Core: regression, classification, metrics, trees, ensembles, and end-to-end workflow | Train, evaluate, and explain practical ML models |
+| Phase 3 | Deep Learning: neural networks, PyTorch, CNNs, and transfer learning | Build and understand basic deep learning projects |
+| Phase 4 | AI Engineering and LLMs: OpenAI APIs, prompts, embeddings, vector databases, RAG, and LangChain | Build practical AI applications with modern tools |
+| Phase 5 | Deployment and Job Readiness: FastAPI, Docker, portfolio, resume, interviews, and final showcase | Package projects professionally and prepare for AI/ML roles |
 
 For the full plan, see [roadmap.md](roadmap.md).
 
@@ -32,11 +32,34 @@ For the full plan, see [roadmap.md](roadmap.md).
 
 | Day | Topic | Project | Status |
 | --- | --- | --- | --- |
-| Day 01 | NumPy Fundamentals | Student Marks Analyzer | Completed |
-| Day 02 | NumPy 2D Arrays and Pandas Introduction | Student Performance DataFrame | Completed |
-| Day 03 | Pandas DataFrames and Data Cleaning | Coming soon | Ready to start |
-| Day 04 | Data Cleaning Practice | Coming soon | Upcoming |
-| Day 05 | Mini Data Analysis Project | Coming soon | Upcoming |
+| Day 01 | Python refresher, NumPy basics, arrays, vectorization | Student Marks Analyzer | Completed |
+| Day 02 | 2D NumPy arrays, Pandas introduction, DataFrames, basic data exploration | Student Performance Analyzer | Completed |
+| Day 03 | Missing values, data cleaning, data types, filtering, duplicates, value counts, GroupBy, sorting | Employee Data Analyzer | Completed |
+| Day 04 | Data visualization and Matplotlib basics | Employee Salary Dashboard | Upcoming |
+| Day 05 | Seaborn basics and correlation visualization | Student Insights Dashboard | Upcoming |
+| Day 06 | Exploratory Data Analysis (EDA) | Analyze a Kaggle Dataset | Upcoming |
+| Day 07 | Revision and interview questions | Weekly Review | Upcoming |
+
+## Current Focus
+
+I am currently working through **Phase 1: Foundations**.
+
+Completed through: **Day 03 - Pandas Data Cleaning and Filtering**
+
+Latest project: **Employee Data Analyzer**
+
+Day 03 deliverables:
+
+- Detect missing values
+- Fill missing values
+- Check data types
+- Filter employees by salary
+- Detect duplicate records
+- Count department values
+- Group salaries by department
+- Sort employees by salary
+
+Next day: **Day 04 - Data Visualization and Matplotlib Basics**
 
 ## Repository Structure
 
@@ -58,6 +81,13 @@ For the full plan, see [roadmap.md](roadmap.md).
 │   ├── resources.md
 │   ├── project/
 │   │   ├── student_performance_dataframe.py
+│   │   └── requirements.txt
+│   └── screenshots/
+├── Day-03/
+│   ├── README.md
+│   ├── resources.md
+│   ├── project/
+│   │   ├── employee_data_analyzer.py
 │   │   └── requirements.txt
 │   └── screenshots/
 └── Weekly-Reviews/
@@ -86,6 +116,22 @@ Project folder: [Day-01/project](Day-01/project)
 Used NumPy and Pandas to create a student performance DataFrame, calculate new columns, explore tabular data, and understand `axis=0`, `axis=1`, and `np.where()`.
 
 Project folder: [Day-02/project](Day-02/project)
+
+### Day 03: Employee Data Analyzer
+
+Used Pandas to detect missing values, fill missing numeric data, inspect data types, detect duplicates, count department values, group salaries by department, filter high-salary employees, and sort employee records.
+
+Project folder: [Day-03/project](Day-03/project)
+
+## Upcoming Projects
+
+### Day 04: Employee Salary Dashboard
+
+Use Matplotlib to create beginner-friendly charts such as bar charts, line charts, and histograms.
+
+### Day 05: Student Insights Dashboard
+
+Use Seaborn to explore correlations, heatmaps, and distribution plots.
 
 ## Why I Am Sharing This
 
